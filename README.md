@@ -1,7 +1,7 @@
-# Research Projects
+# Research Projects (DRAFT VERSION - INCOMPLETE)
 Description of research projects
 
-# [CEIDS](https://kellogg.nd.edu/ceids-notre-dame) Literature Review on Effective Education Programs
+## Literature Review on Effective Education Programs - through Research Affiliation at [CEIDS](https://kellogg.nd.edu/ceids-notre-dame) 
 Co-authors: Paul Glewwe, Kelsey Daniels and Ann Munene.
 
 - Designed and sent survey to 50 non-profit organizations that work in Education.
@@ -17,9 +17,6 @@ Synthetized research on Neuroscience, Psychology, Education and
 Economics on the brain development stages that are more receptive to
 literacy acquisition.
 
-
-## USP (2015-2018)
-
 ## Bachelor's Thesis: "Investigation on the Role of Liquidity: Monthly cycles in Road Accidents and Hospitalizations Related to Alcohol Consumption in Brazil"
 
 ### Description:
@@ -31,8 +28,18 @@ dummies).
 - Identified relationship between the dates that paychecks were received
 and hospitalizations through alcohol consumption.
 
+
+## Other Econometric research projects at USP (2015-2018)
 ### Analysis on Child Socioemotional Development and Parent Participation in the Learning Process (2017)
 Co-authored with Isabela Inocente Gomes | Econometrics II (Panel Data)
 
 Utilizing a personality trait data conducted in public schools across two time periods, I analyzed the impact of family background in children’s school performance
+
+## Other projects:
+
+### Can gains in agricultural productivity contribute to reduce regional inequality and improve income distribution?
+
+Federal University of Viçosa
+
+Impact evaluation on social welfare measures utilizing the GAMS/MPSGE model – General Computational Equilibrium application
 
