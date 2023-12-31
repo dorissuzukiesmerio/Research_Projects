@@ -31,7 +31,7 @@ and hospitalizations through alcohol consumption.
 
 ## Other Econometric research projects at USP (2015-2018)
 ### Analysis on Child Socioemotional Development and Parent Participation in the Learning Process (2017)
-Co-authored with Isabela Inocente Gomes | Econometrics II (Panel Data)
+Co-authored with Isabela Innocente Gomes de Oliveira | Econometrics II (Panel Data)
 
 Utilizing a personality trait data conducted in public schools across two time periods, I analyzed the impact of family background in children’s school performance
 
