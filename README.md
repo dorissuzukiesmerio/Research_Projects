@@ -1,6 +1,12 @@
 # Research Projects
 Description of research projects
 
+# (CEIDS)[https://kellogg.nd.edu/ceids-notre-dame] Literature Review on Effective Education Programs
+Co-authors: Paul Glewwe, Kelsey Daniels and Ann Munene.
+
+- Designed and sent survey to 50 non-profit organizations that work in Education.
+- Conducting systematic review of high-quality data evaluations that point to best practices in international Education interventions.
+
 ## Master’s thesis: [Age-Specific Effects of an Early Grade Literacy Intervention in Asia and Africa](https://tigerprints.clemson.edu/all_theses/3724/)
 
 Using python (pandas, numpy), I cleaned, processed and aggregated 9
@@ -14,10 +20,7 @@ literacy acquisition.
 
 ## USP (2015-2018)
 
-## Bachelor's Thesis: 
-Investigation on the Role of Liquidity: Monthly cycles in
-Road Accidents and Hospitalizations Related to Alcohol
-Consumption in Brazil
+## Bachelor's Thesis: "Investigation on the Role of Liquidity: Monthly cycles in Road Accidents and Hospitalizations Related to Alcohol Consumption in Brazil"
 
 ### Description:
 - Gathered and merged health data from the most comprehensive public
