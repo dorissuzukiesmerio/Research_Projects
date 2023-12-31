@@ -1,7 +1,7 @@
 # Research Projects
 Description of research projects
 
-# (CEIDS)[https://kellogg.nd.edu/ceids-notre-dame] Literature Review on Effective Education Programs
+# [CEIDS](https://kellogg.nd.edu/ceids-notre-dame) Literature Review on Effective Education Programs
 Co-authors: Paul Glewwe, Kelsey Daniels and Ann Munene.
 
 - Designed and sent survey to 50 non-profit organizations that work in Education.
