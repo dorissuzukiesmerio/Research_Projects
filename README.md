@@ -5,7 +5,7 @@ Description of research projects
 Co-authors: Paul Glewwe, Kelsey Daniels and Ann Munene.
 
 - Designed and sent survey to 50 non-profit organizations that work in Education.
-- Conducting systematic review of high-quality data evaluations that point to best practices in international Education interventions.
+- (Ongoing) Conducting systematic review of high-quality data evaluations that point to best practices in international Education interventions.
 
 ## Master’s thesis: [Age-Specific Effects of an Early Grade Literacy Intervention in Asia and Africa](https://tigerprints.clemson.edu/all_theses/3724/)
 
@@ -34,6 +34,13 @@ and hospitalizations through alcohol consumption.
 Co-authored with Isabela Inocente Gomes | Econometrics II (Panel Data)
 
 Utilizing a personality trait data conducted in public schools across two time periods, I analyzed the impact of family background in children’s school performance
+
+### A Crise Hídrica e o Impacto no Consumo de Água na Zona Sul e  Norte da Cidade de São Paulo (The Water Crisis and its Impact on Water Consumption in the South and North Zones of the City of São Paulo)
+Co-authored with Lucas Vidal Passos
+
+- Data: SABESP; Statistical Analysis in Stata
+- Policy Analysis: natural experiment / quasi-experimental method (Diff-in-Diff) due to reduced pressured in the North Zone of Sao Paulo city during the crisis.
+- Presentation 
 
 ## Other projects:
 
