@@ -1,7 +1,7 @@
 # Research Projects
 Description of research projects
 
-# Master’s thesis: "Age-Specific Effects of an Early Grade Literacy Intervention in Asia and Africa"[https://tigerprints.clemson.edu/all_theses/3724/]
+## Master’s thesis: [Age-Specific Effects of an Early Grade Literacy Intervention in Asia and Africa](https://tigerprints.clemson.edu/all_theses/3724/)
 
 Using python (pandas, numpy), I cleaned, processed and aggregated 9
 different datasets from 9 different countries to perform statistical data
